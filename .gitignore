@@ -28,3 +28,4 @@ env/
 *.egg-info/
 .pytest_cache/
 .mypy_cache/
+cardio_train.csv
